@@ -1,0 +1,19 @@
+.DS_Store
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/.DS_Store
+*.json
+
+
+#ignorea specfic file
+# code/junk_notebook.ipynb
+
+#ignore a specific file extentsion
+# *.php
+
+#ignore a directory
+#  code/
+
+#ignore a directory name anywhere in the repo
+#  **/.ipynb_checkpoints
+# scrape*.json
